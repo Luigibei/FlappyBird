@@ -1,1 +1,1 @@
-# Exercise python flappy bird game.
+# Exercise python flapping bird game.
